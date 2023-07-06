@@ -11,3 +11,5 @@ done
 [^b-z]
 
 [abcdefg]{7}
+
+echo "This is the end"
