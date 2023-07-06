@@ -12,4 +12,4 @@ done
 
 [abcdefg]{7}
 
-echo "This is the end"
+echo "This is the end."
